@@ -1,0 +1,37 @@
+* {
+ margin: 0;
+  box-sizing: border-box;
+}
+
+#divTop{
+width: 60%;
+margin: auto;
+padding-top: 10px;
+}
+
+
+#visor{
+border-style: solid;
+border-width: 1px;
+border-color: black;
+color: rgba(0,0,0,0.3);
+text-align: center;
+padding: 5px;
+height: 40px;
+}
+
+input{
+width: 100%;
+padding-top: 3px;
+
+
+
+}
+
+#containerButtons{
+padding: 3px;
+display: grid;
+grid-template-columns: auto auto auto;
+font-size: 1vw;
+
+}
